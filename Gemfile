@@ -12,6 +12,8 @@ gem 'json'
 gem 'httparty'
 gem 'mongrel', '1.1.5'
 gem 'pdf-writer'
+gem 'hoe', '~> 1.5.1'
+
 
 gem "rghost", ">=0.8.7"
 gem "rghost_rails", "~> 0.3.3"
@@ -34,4 +36,7 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'ruby-debug'
+
+#http://afternoon-galaxy-4052.heroku.com/
+#git@heroku.com:afternoon-galaxy-4052.git
 
