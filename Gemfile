@@ -10,7 +10,7 @@ gem 'sqlite3'
 gem 'mysql2'
 gem 'json'
 gem 'httparty'
-gem 'mongrel', '1.1.5'
+#gem 'mongrel', '1.1.5'
 gem 'pdf-writer'
 gem 'hoe', '~> 1.5.1'
 
